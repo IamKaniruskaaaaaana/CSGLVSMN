@@ -1,0 +1,65 @@
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+ol h5 {
+    background: white;
+    padding: 13px;
+    border-radius: 20px;
+}
+
+span {
+    color: red;
+    font-size:25px;
+    font-family: 'Combo', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+#idk {
+    color: red;
+    font-size:19px;
+    font-family: 'Vampiro One', cursive;
+   
+}
+
+li img {
+    border-radius: 20px;
+}
+
+.bob {
+    background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+b {
+    color: purple;
+    font-family: 'Antonio', sans-serif;
+    font-size:15px;
+}
+
+.bob3 {
+    text-align: center;
+    color: white;
+}
+
+.result {
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: #F2BAC9;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid grey
+}
+p{
+    font-size:20px;
+}
